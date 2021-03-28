@@ -5,7 +5,7 @@ Meu nome é Clovis Neto Araújo de Sousa, e sou estudante no Instituto Federal d
 Minhas redes: 
 <ul>
   <li>
-    <img src="Instagram-ícone.png"  width="18">
+    <img src="https://user-images.githubusercontent.com/Instagram-ícone.png"  width="18">
     <a href="https://www.instagram.com/clovis_n.araujo/?hl=pt-br" target="_blank" title="Meu Instagram">Instagram</a>
   </li>
 </ul>
