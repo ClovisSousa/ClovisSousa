@@ -5,11 +5,11 @@ Meu nome é Clovis Neto Araújo de Sousa, e sou estudante no Instituto Federal d
 Minhas redes: 
 <ul>
   <li>
-    <img src="https://www.termineseusestudos.com.br/wp-content/uploads/2020/01/Instagram-%C3%ADcone.png" width="18">Instagram</img>
+    <img src="https://www.termineseusestudos.com.br/wp-content/uploads/2020/01/Instagram-%C3%ADcone.png" width="18">
     <a href="https://www.instagram.com/clovis_n.araujo/?hl=pt-br" target="_blank" title="Meu Instagram">Instagram</a>
   </li>
   <li>
-    <img src=""  width="18">
+    <img src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png"  width="18">
     <a href="https://www.facebook.com/cloves.neto.733/"  target="_blanck title="Meu Facebook"">Facebook</a>
   </li>
 </ul>
