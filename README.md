@@ -6,6 +6,6 @@ Minhas redes:
 <ul>
   <li>
     <img src="Instagram-%C3%ADcone.png"  width="18" alt="Instagram">
-    <a href="https://www.instagram.com/clovis_n.araujo/?hl=pt-br" target="_blank" title="Meu Instagram">Youtube>
+    <a href="https://www.instagram.com/clovis_n.araujo/?hl=pt-br" target="_blank" title="Meu Instagram">Instagram</>
   </li>
 </ul>
