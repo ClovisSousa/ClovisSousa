@@ -8,4 +8,8 @@ Minhas redes:
     <img src="https://user-images.githubusercontent.com/Instagram-ícone.png"  width="18">
     <a href="https://www.instagram.com/clovis_n.araujo/?hl=pt-br" target="_blank" title="Meu Instagram">Instagram</a>
   </li>
+  <li>
+    <img src=""  width="18">
+    <a href="https://www.facebook.com/cloves.neto.733/"  target="_blanck title="Meu Facebook"">Facebook</a>
+  </li>
 </ul>
