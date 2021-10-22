@@ -6,7 +6,7 @@ Meu nome é Clovis Neto Araújo de Sousa, e sou estudante no Instituto Federal d
 <ul>
   <li>
     <img src="https://www.termineseusestudos.com.br/wp-content/uploads/2020/01/Instagram-%C3%ADcone.png" width="18">
-    <a href="https://www.instagram.com/clovis_n.araujo/?hl=pt-br" target="_blank" rel=”noopener” title="Meu Instagram">Instagram</a>
+    <a href="https://www.instagram.com/clovis.n_araujo/" target="_blank" rel=”noopener” title="Meu Instagram">Instagram</a>
   </li>
   <li>
     <img src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png"  width="18">
